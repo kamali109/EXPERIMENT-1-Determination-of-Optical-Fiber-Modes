@@ -50,9 +50,9 @@ Total number of modes = V2 / 2 = 4.912 / 2
 ```
 ## Tabulation
 ```
-<img width="755" height="1280" alt="image" src="https://github.com/user-attachments/assets/c28265fb-8d72-4c42-9073-231b262fc7c9" />
-```
+![WhatsApp Image 2025-11-19 at 22 01 08_34375fc4](https://github.com/user-attachments/assets/91bf200e-4958-43d0-803a-3a86c88d84fe)
 
+```
 ## Result
 ```
 The study successfully achieved the aim by observing the lower-order Linearly Polarized (LP) modes of the fiber. The Single Mode Fiber output was examined, showing the fundamental LP01 mode (a single circular spot) and higher-order LP modes (patterns with two, three, and four lobes) when the coupling alignment was slightly adjusted.
