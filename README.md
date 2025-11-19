@@ -47,9 +47,7 @@ Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
-```
-## Tabulation
-```
+
 ![WhatsApp Image 2025-11-19 at 22 01 08_34375fc4](https://github.com/user-attachments/assets/91bf200e-4958-43d0-803a-3a86c88d84fe)
 
 ```
